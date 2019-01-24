@@ -7,41 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Aditya Pokuri
+    tagline: Software Developer/Analyst
+    avatar: Image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: mpokuri@bgsu.edu
+    phone: 201 972 0178
+    website: https://www.linkedin.com/in/aditya-pokuri-414b2913b/ #do not add http://
+    linkedin: Aditya Pokuri
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Telugu
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Sky Diving
         link:
 
-      - item: Snowboarding
+      - item: White Water Rafting
         link:
 
-      - item: Cooking
+      - item: Trading
         link:
 
 career-profile:
@@ -57,8 +57,8 @@ career-profile:
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Bowling Green State University
+      time: 2017 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +69,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor's in Computer Science
+      university: Hinduaten University
+      time: 2012 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,55 +83,58 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer/Analyst
+      time: Jan 2018 - Present
+      company: Back Blaze Cloud Storage
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Intelligent hard drive failure rate prediction - Research   
+        Hard drive failure rate data from backblaze is being explored and 
+        integrating it with the reliability models and potentially Reliacloud-NS software. 
+        Also applying intelligent prediction to find failure rates of
+        harddrive using IRACE (machine learning).
 
-          - Bullet point
-          - Bullet point
+          - Data table development and data models were done using I- Python/ Graph lab.
+          - Python data analysis libraries are used for data manipulation, processing time series.
+          - Numba python complier, and FF used to increase processing speed.
+          - Scikit is used for training the data models with machine learning algorithms.
+          - Python scripting and automation has been done using Spyder.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Data Quality Engineer
+      time: May 2018 - Aug 2015
+      company: Medical Mutual Of Ohio
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Project 1: Conducted research on Medicare data to track the patient’s 
+        health and developed data quality dashboard to determine issues. 
+        The analytic dashboard in R/shiny provides transparency on data quality issues
+        and provide insights to business point. Matplotlib and ggplot has been used 
+        to build complex graphs. This dashboard was used to evaluate the providers of the 
+        company and rate them which would save money to company in millions by eliminating inefficiencies.m.
 
-          - Bullet point
-          - Bullet point
+          - Multi-dimensional data structures were created and used through NumPy
+          - Matplotlib and ggplot were used to build complex graphs.
+          - Data pipelines were built and tested using Python’s Unit Testing.
+          - Frameworks used Jupyter Notebook, R studios
+        Project 2: Data Quality Dashboard has been develop using R/Shiny to reduce error percentage
+        during injection and migration of data from data warehousing department.
+        
+          - Pandas has been used to restructure and clean the error data.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineer
+      time: Jan 2016 - Sep 2016 
+      company: Spiro Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Evaluated data on cloud and filtered duplicate data, Rectifying data redundancy utilizing JavaScript and Eclipse.
 
-          - Bullet point
-          - Bullet point
+         
 
 projects:
-    title: Projects
+    title: Assessment of amazon customer ratings regarding electronic products
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        - Conducted perspective analysis of product performance and consumer behavior regarding amazon products
+        - Explored to understand useful information about the rating behavior of consumers
+        - Identified overall performance of the business based on average ratings of all products received
+        - Provided two recommendation engines were built for two different criterions
+        - Imported data using HDFS, Python, Hive(tables), Impala, Spark MLlib
 
     assignments:
       - title: Velocity
