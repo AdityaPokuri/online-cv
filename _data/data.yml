@@ -129,7 +129,7 @@ experiences:
 
 projects:
     title: Assessment of amazon customer ratings regarding electronic products
-    intro: >
+    details: >
         - Conducted perspective analysis of product performance and consumer behavior regarding amazon products
         - Explored to understand useful information about the rating behavior of consumers
         - Identified overall performance of the business based on average ratings of all products received
@@ -181,23 +181,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 92%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 93%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Hadoop & Hive
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: MySQL
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
