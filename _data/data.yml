@@ -57,28 +57,13 @@ education:
     - degree: MSc in Computer Science
       university: Bowling Green State University
       time: 2017 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      
+        
 
     - degree: Bachelor's in Computer Science
       university: Hinduaten University
       time: 2012 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      
 
 experiences:
     - role: Software Developer/Analyst
@@ -101,27 +86,34 @@ experiences:
       time: May 2018 - Aug 2015
       company: Medical Mutual Of Ohio
       details: |
-        Project 1: Conducted research on Medicare data to track the patient’s 
-        health and developed data quality dashboard to determine issues. 
-        The analytic dashboard in R/shiny provides transparency on data quality issues
-        and provide insights to business point. Matplotlib and ggplot has been used 
-        to build complex graphs. This dashboard was used to evaluate the providers of the 
-        company and rate them which would save money to company in millions by eliminating inefficiencies.m.
+        Project 1: 
+        Conducted research on Medicare data to track the patient’s 
+        health and developed data quality dashboard to determine 
+        issues. The analytic dashboard in R/shiny provides transparency
+        on data quality issues and provide insights to business point.
+        Matplotlib and ggplot has been used to build complex graphs. 
+        This dashboard was used to evaluate the providers of the 
+        company and rate them which would save money to company 
+        in millions by eliminating inefficiencies.m.
 
-          - Multi-dimensional data structures were created and used through NumPy
-          - Matplotlib and ggplot were used to build complex graphs.
-          - Data pipelines were built and tested using Python’s Unit Testing.
-          - Frameworks used Jupyter Notebook, R studios
-        Project 2: Data Quality Dashboard has been develop using R/Shiny to reduce error percentage
-        during injection and migration of data from data warehousing department.
+         - Multi-dimensional data structures were created and used through NumPy
+         - Matplotlib and ggplot were used to build complex graphs.
+         - Data pipelines were built and tested using Python’s Unit Testing.
+         - Frameworks used Jupyter Notebook, R studios
         
-          - Pandas has been used to restructure and clean the error data.
+        Project 2: 
+        Data Quality Dashboard has been develop using R/Shiny to reduce error
+        percentage during injection and migration of data from data warehousing 
+        department.
+        
+        - Pandas has been used to restructure and clean the error data.
 
     - role: Software Engineer
       time: Jan 2016 - Sep 2016 
       company: Spiro Solutions
       details: |
-        Evaluated data on cloud and filtered duplicate data, Rectifying data redundancy utilizing JavaScript and Eclipse.
+        Evaluated data on cloud and filtered duplicate data, 
+        Rectifying data redundancy utilizing JavaScript and Eclipse.
 
          
 
@@ -134,46 +126,19 @@ projects:
         - Provided two recommendation engines were built for two different criterions
         - Imported data using HDFS, Python, Hive(tables), Impala, Spark MLlib
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    
 
 publications:
-    title: Publications
+    title: Papers
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Mining Github Repositories for Coding Conventions
+        authors: Aditya Pokuri, Abhinay Patthi, Micheal
+        conference: 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      
 
 skills:
     title: Skills &amp; Proficiency
