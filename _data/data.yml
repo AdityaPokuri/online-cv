@@ -130,7 +130,7 @@ projects:
 publications:
     title: Papers
     intro: |
-      
+      - Assessment of amazon customer ratings regarding electronic products
 
     papers:
       - title: Mining Github Repositories for Coding Conventions
