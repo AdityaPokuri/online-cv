@@ -73,11 +73,11 @@ experiences:
         Also applying intelligent prediction to find failure rates of
         harddrive using IRACE (machine learning).</DIV>
 
-          - Data table development and data models were done using I- Python/ Graph lab.
-          - Python data analysis libraries are used for data manipulation, processing time series.
-          - Numba python complier, and FF used to increase processing speed.
-          - Scikit is used for training the data models with machine learning algorithms.
-          - Python scripting and automation has been done using Spyder.
+          <p align="justify">- Data table development and data models were done using I- Python/ Graph lab.</p>
+          <p align="justify">- Python data analysis libraries are used for data manipulation, processing time series.</p>
+          <p align="justify">- Numba python complier, and FF used to increase processing speed.</p>
+          <p align="justify">- Scikit is used for training the data models with machine learning algorithms.</p>
+          <p align="justify">- Python scripting and automation has been done using Spyder.</p>
 
     - role: Data Quality Engineer
       time: May 2018 - Aug 2015
