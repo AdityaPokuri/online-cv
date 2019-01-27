@@ -123,8 +123,10 @@ projects:
       
     assignments:
       - title: Assessment of amazon customer ratings regarding electronic products
-        link: "hfjy"
-        tagline: "kszutgiuh"
+        link: 
+        tagline: 
+        - Conducted perspective analysis of product performance and consumer behavior regarding amazon products
+        
 
     
 
