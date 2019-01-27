@@ -99,9 +99,9 @@ experiences:
          - Frameworks used Jupyter Notebook, R studios
         
         Project 2: 
-        Data Quality Dashboard has been develop using R/Shiny to reduce error
+        <DIV align="justify">Data Quality Dashboard has been develop using R/Shiny to reduce error
         percentage during injection and migration of data from data warehousing 
-        department.
+        department.</DIV>
         
         - Pandas has been used to restructure and clean the error data.
 
@@ -109,8 +109,8 @@ experiences:
       time: Jan 2016 - Sep 2016 
       company: Spiro Solutions
       details: |
-        Evaluated data on cloud and filtered duplicate data, 
-        Rectifying data redundancy utilizing JavaScript and Eclipse.
+        <DIV align="justify">Evaluated data on cloud and filtered duplicate data, 
+        Rectifying data redundancy utilizing JavaScript and Eclipse.</DIV>
 
          
 
