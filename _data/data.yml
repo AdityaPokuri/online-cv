@@ -117,7 +117,7 @@ experiences:
 projects:
     title: Projects
     Intro: >
-      .kjrglkshelrgj
+      
       
     assignments:
       - title: Assessment of amazon customer ratings regarding electronic products
@@ -158,3 +158,6 @@ skills:
 
       - name: MySQL
         level: 85%
+        
+      - name: AWS
+        level: 70%
