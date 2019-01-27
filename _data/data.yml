@@ -130,7 +130,16 @@ projects:
 projects:
     title: Assessment of amazon customer ratings regarding electronic products
     intro: |
-      - Assessment of amazon customer ratings regarding electronic products
+      - Conducted perspective analysis of product performance and consumer behavior regarding amazon products
+      - Explored to understand useful information about the rating behavior of consumers
+      - Identified overall performance of the business based on average ratings of all products received
+      - Provided two recommendation engines were built for two different criterions
+      - Imported data using HDFS, Python, Hive(tables), Impala, Spark MLlib
+
+Publications:
+    title: Publications
+    intro: |
+
 
     papers:
       - title: Mining Github Repositories for Coding Conventions
