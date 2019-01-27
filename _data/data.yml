@@ -67,11 +67,11 @@ experiences:
       time: Jan 2018 - Present
       company: Back Blaze Cloud Storage
       details: |
-        Intelligent hard drive failure rate prediction - Research   
+        <DIV align="justify">Intelligent hard drive failure rate prediction - Research   
         Hard drive failure rate data from backblaze is being explored and 
         integrating it with the reliability models and potentially Reliacloud-NS software. 
         Also applying intelligent prediction to find failure rates of
-        harddrive using IRACE (machine learning).
+        harddrive using IRACE (machine learning).</DIV>
 
           - Data table development and data models were done using I- Python/ Graph lab.
           - Python data analysis libraries are used for data manipulation, processing time series.
