@@ -73,25 +73,25 @@ experiences:
         Also applying intelligent prediction to find failure rates of
         harddrive using IRACE (machine learning).</DIV>
 
-          <p align="justify">- Data table development and data models were done using I- Python/ Graph lab.</p>
-          <p align="justify">- Python data analysis libraries are used for data manipulation, processing time series.</p>
-          <p align="justify">- Numba python complier, and FF used to increase processing speed.</p>
-          <p align="justify">- Scikit is used for training the data models with machine learning algorithms.</p>
-          <p align="justify">- Python scripting and automation has been done using Spyder.</p>
+          - Data table development and data models were done using I- Python/ Graph lab.
+          - Python data analysis libraries are used for data manipulation, processing time series.
+          - Numba python complier, and FF used to increase processing speed.
+          - Scikit is used for training the data models with machine learning algorithms.
+          - Python scripting and automation has been done using Spyder.
 
     - role: Data Quality Engineer
       time: May 2018 - Aug 2015
       company: Medical Mutual Of Ohio
       details: |
         Project 1: 
-        Conducted research on Medicare data to track the patient’s 
+        <DIV align="justify">Conducted research on Medicare data to track the patient’s 
         health and developed data quality dashboard to determine 
         issues. The analytic dashboard in R/shiny provides transparency
         on data quality issues and provide insights to business point.
         Matplotlib and ggplot has been used to build complex graphs. 
         This dashboard was used to evaluate the providers of the 
         company and rate them which would save money to company 
-        in millions by eliminating inefficiencies.m.
+        in millions by eliminating inefficiencies.</DIV>
 
          - Multi-dimensional data structures were created and used through NumPy
          - Matplotlib and ggplot were used to build complex graphs.
