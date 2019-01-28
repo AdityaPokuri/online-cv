@@ -134,13 +134,13 @@ publications:
 
 
     papers:
-      - title: "Mining Github Repositories for Coding Conventions"
-        authors: Aditya Pokuri, Abhinay Patthi, Micheal
-        conference: 2018
-        
       - title: "BG Downtown Traffic Simulation"
         authors: Bhanu Chakilm, Vamsi Gadi, Aditya Pokuri, Sunil Shrestha
         conference: 2017
+        
+      - title: "Mining Github Repositories for Coding Conventions"
+        authors: Aditya Pokuri, Abhinay Patthi, Micheal
+        conference: 2018
         
       - title: "Software Engineering Education"
         authors: Aditya Pokuri
