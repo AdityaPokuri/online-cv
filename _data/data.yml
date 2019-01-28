@@ -137,6 +137,10 @@ publications:
       - title: Mining Github Repositories for Coding Conventions
         authors: Aditya Pokuri, Abhinay Patthi, Micheal
         conference: 2018
+    papers:
+      - title: A Review and Comparison of PCA and ICA Algorithms
+        authors: Aditya Pokuri, Lei Wang
+        conference: 2018
 
       
 
