@@ -123,7 +123,7 @@ projects:
       - title: Assessment of amazon customer ratings regarding electronic products
         link: 
         tagline: 
-        <DIV align="justify"> - Conducted perspective analysis of product performance and consumer behavior regarding amazon products and two recommendation engines were built for two different criterions.</DIV>
+        - Conducted perspective analysis of product performance and consumer behavior regarding amazon products and two recommendation engines were built for two different criterions.
 
         
 
