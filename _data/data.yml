@@ -63,8 +63,21 @@ education:
       
 
 experiences:
-    - role: Software Developer/Analyst
-      time: Jan 2018 - Present
+    - role: Information Technology Security Analyst
+      time: Feb 2019 - May 2019
+      company: Bowling Green State University 
+      details: |
+        <DIV align="justify">Working with Information Security Team to improve cybersecurity and compliance at the university's 
+        Digital Forensic Laboratory with the latest technologies, and assisting detection and preventing cyber crimes.</DIV>
+        
+          - Security Monitoring
+          - Security incident response
+          - Vulnerability management
+          - Research and documentation development on how various technologies and processes work
+          - Gathering, reporting, and delivery of security metrics
+          - Various small projects and process assistance as needed
+    - role: Software Developer/Analyst (Research Project)
+      time: Jan 2018 - May 2019
       company: Back Blaze Cloud Storage
       details: |
         <DIV align="justify">Intelligent hard drive failure rate prediction - Research   
