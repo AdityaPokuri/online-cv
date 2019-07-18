@@ -137,7 +137,10 @@ projects:
         link: 
         tagline: 
         - Conducted perspective analysis of product performance and consumer behavior regarding amazon products and two recommendation engines were built for two different criterions.
-
+      - title: Agile Development Android Application (Townie Cup)
+        link:
+        tagline:
+        - Involved in developing an app Townie Cup with Messaging, broadcast functionality also created leadership and scoreboards UI in Android Studio.
         
 
     
