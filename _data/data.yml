@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Aditya Pokuri
-    tagline: Software Developer/Analyst
+    tagline: Data Interface Developer
     avatar: Image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,6 +63,19 @@ education:
       
 
 experiences:
+    - role: Data Interface DeveloperInformation Technology Security Analyst
+      time: Sep 2019 - Present
+      company: Altruistia Health 
+      details: |
+        <DIV align="justify">Working Data Interface Solutions as a Developer to Develop, Maintain and Process Inbound Data 
+        .</DIV>
+        
+          - Assist in the development and maintenance of inbound *PHI* data for our clients (UnitedHealth, Medica, Denver Health, HCSC, CCA, Priority Health) into Guiding Care
+          - Data(Streamed, Batched) collected from the providers, staged then moved to Hub.
+          - Data inside the hub is optimized for analysis(Staging, Cleaning, Conforming and Delivered to Application)
+          - Custom ETL's, Mappings
+          - Gathering, reporting, and delivery of Data metrics
+          - Various small projects and process assistance as needed
     - role: Information Technology Security Analyst
       time: Feb 2019 - May 2019
       company: Bowling Green State University 
