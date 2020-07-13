@@ -63,7 +63,7 @@ education:
       
 
 experiences:
-    - role: Data Interface DeveloperInformation Technology Security Analyst
+    - role: Data Interface Developer
       time: Sep 2019 - Present
       company: Altruistia Health 
       details: |
@@ -188,6 +188,12 @@ skills:
     toolset:
       - name: Python 
         level: 92%
+        
+      - name: NoSQL 
+        level: 92%
+        
+      - name: C# 
+        level: 81%
 
       - name: R
         level: 93%
@@ -197,9 +203,6 @@ skills:
 
       - name: Hadoop & Hive
         level: 90%
-
-      - name: MySQL
-        level: 85%
-        
+       
       - name: AWS
         level: 70%
